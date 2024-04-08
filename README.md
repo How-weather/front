@@ -6,11 +6,12 @@
 <br >
 ## 팀 로고
 <p align="center">
- <img width="200" alt="테오의 스프린트 17기  6조" src="https://avatars.githubusercontent.com/u/96216178?s=400&u=9a2a39235f858accfe01bad469465e20b78c4069&v=4">
+ <img width="200" alt="테오의 스프린트 17기  6조" src="https://github.com/How-weather/front/assets/96216178/e11fe5a2-056c-4c18-8b8c-473d86b50ee6">
 </p>
 
 <br >
 <br >
+
 
 # 💼 서비스 소개
 
