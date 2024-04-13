@@ -1,24 +1,21 @@
-# [육사시미] How-Weather _ 테오의 스프린트 17기
-
+# How-weather
 
 ![Group 34419](https://github.com/How-weather/front/assets/96216178/0ff17d8c-cff6-43f1-9856-4bd36b564a49)
-<br >
-<br >
-## 팀 로고
-<p align="center">
- <img width="200" alt="테오의 스프린트 17기  6조" src="https://github.com/How-weather/front/assets/96216178/e11fe5a2-056c-4c18-8b8c-473d86b50ee6">
+
+<p align="middle">
+ <a href="https://how-weather-front.vercel.app/">
+  🔗 How-weather 서비스 이용하기
+ </a>
 </p>
 
 <br >
-<br >
-
 
 # 💼 서비스 소개
 
 ```jsx
 아침마다 날씨를 확인하면서 어떻게 옷을 입을지 고민되지 않으신가요?
 겉옷을 챙기면 덥고, 안 챙기면 추운날 있지 않으셨나요?
-How-Wheather 는 이러한 분들을 위해 현재 날씨를 고려하여 옷을 추천해주는 웹 서비스입니다.
+How-weather 는 이러한 분들을 위해 현재 날씨를 고려하여 옷을 추천해주는 웹 서비스입니다.
 ```
 
 <br >
@@ -42,9 +39,8 @@ How-Wheather 는 이러한 분들을 위해 현재 날씨를 고려하여 옷을
 ```
 
 <br >
-<br >
 
-# 👨‍👩‍👧‍👦 팀 소개
+# 👨‍👩‍👧‍👦 팀원 소개
 
 |      Design      |     BE      |  
 | :--------------: | :--------------: | 
@@ -67,25 +63,23 @@ How-Wheather 는 이러한 분들을 위해 현재 날씨를 고려하여 옷을
 
 <div align="middle">
   
-### 프론트엔드
+### Front-end
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 
-
-
-### 백엔드
+###  Back-end
 
 <img src="https://img.shields.io/badge/Python-3a75b0?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/cloudfucntions-3a75b0?style=for-the-badge&logo=google&logoColor=white">
 
-### 디자인
+### Design
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
-### 협업 및 환경
+### Environment
 
 <img src="https://img.shields.io/badge/Figjam-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -93,23 +87,25 @@ How-Wheather 는 이러한 분들을 위해 현재 날씨를 고려하여 옷을
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-<br/>
-<br/>
 </div>
 
-- - -
+# :pencil: 코드 컨벤션
+ 
+```
+Feat : 새로운 기능의 추가
+Fix: 버그 수정
+Docs: 문서 수정 (리드미 작성)
+Style: 스타일 관련 기능 (코드 포맷팅, 세미콜론 누락, 코드 자체의 변경이 없는 경우)
+Refactor: 코드 리펙토링
+Test: 테스트 코트, 리펙토링 테스트 코드 추가
+Chore: 빌드 업무 수정, 패키지 매니저 수정 (ex .gitignore 수정 같은 경우)
+```
+
+# 🌈 We are!
+
 
 <p align="center">
-  <img src="https://github.com/solssak/teo-sprint-template/assets/107416133/b9616006-c8a2-4a39-a5cb-67d200cb1a84" width="300" height="300"/>
+  <img src="https://github.com/joshyeom/how-weather-front/assets/105287510/a56a0f91-5fd3-44e5-adad-e9dff6ec0e37">
+  <br>
+  <img width="200" alt="테오의 스프린트 17기  6조" src="https://github.com/joshyeom/how-weather-front/assets/105287510/27b09e0d-d7db-422f-89a1-b9a70568f503">
 </p>
-
-# git commit convention
-```
-- Feat : 새로운 기능의 추가
-- Fix: 버그 수정
-- Docs: 문서 수정 (리드미 작성)
-- Style: 스타일 관련 기능(코드 포맷팅, 세미콜론 누락, 코드 자체의 변경이 없는 경우)
-- Refactor: 코드 리펙토링
-- Test: 테스트 코트, 리펙토링 테스트 코드 추가
-- Chore: 빌드 업무 수정, 패키지 매니저 수정(ex .gitignore 수정 같은 경우)
-```
